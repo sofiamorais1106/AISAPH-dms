@@ -1,0 +1,64 @@
+Categoria;Indicador;Descrição;Unidade de Medida
+Visão Geral da Empresa;Receita Mensal/Trimestral/Anual;Evolução das receitas ao longo do período.;CVE (Escudos Cabo-verdianos)
+;Margem de Lucro;Percentual e valor da margem de lucro para avaliar a rentabilidade.;%
+;Despesas Operacionais;Visão das despesas principais, com análise de evolução e variação.;CVE
+;Indicadores de Eficiência;Taxa de eficiência em processos e serviços.;%
+Indicadores de SST;Número de Acidentes de Trabalho;Dados sobre incidentes e dias perdidos devido a lesões.;Nº de Acidentes/Dias Perdidos
+;Taxa de Absenteísmo;Percentual de absenteísmo por doença ou acidente.;%
+;Cumprimento de Normas SST;Indicadores sobre a conformidade com as regulamentações de segurança e saúde no trabalho.;%
+Desempenho da Divisão de Saúde;Número de Serviços Realizados;Total de serviços de saúde prestados e comparação com o período anterior.;Nº de Serviços
+;Satisfação dos Clientes;Índice geral de satisfação dos clientes com a divisão de saúde.;%
+;Tempo Médio de Resolução;Tempo médio para completar serviços na área de saúde.;Dias ou Horas
+Recursos Humanos;Taxa de Retenção de Funcionários;Percentual de retenção e taxa de turnover.;%
+;Treinamentos Concluídos;Total de horas de treinamento e especializações realizadas.;Horas
+;Clima Organizacional;Medições de engajamento e satisfação dos funcionários.;%
+Crescimento e Expansão;Novos Contratos/Clientes;Número de novos clientes e contratos firmados.;Nº de Contratos
+;Expansão Geográfica;Regiões ou locais onde a empresa iniciou novas operações.;Nº de Locais
+;Investimentos em Inovação e Tecnologia;Percentual do orçamento dedicado a inovações e tecnologias.;%
+Análise de Riscos;Principais Riscos Operacionais e Financeiros;Avaliação qualitativa e quantitativa dos principais riscos identificados.;Qualitativo/Quantitativo
+;Planos de Mitigação de Riscos;Status de implementação das ações corretivas.;% Completo
+Sustentabilidade;Impacto Ambiental;Dados de emissões de carbono, consumo de água e energia.;kg CO?, m³ Água, kWh Energia
+;Iniciativas Sustentáveis;Projetos e economia gerada pelas práticas sustentáveis.;CVE
+Previsões e Projeções;Previsão de Receita e Despesas;Projeções para o próximo período em termos de receita, custos e EBITDA.;CVE
+;Análise de Cenários;Desempenho projetado em diferentes cenários econômicos.;Qualitativo/Quantitativo
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;

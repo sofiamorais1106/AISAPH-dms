@@ -1,0 +1,6 @@
+DB_HOST = "localhost" 
+DB_NAME = "aisaph_cv_db"
+DB_USER = "postgres"
+DB_PASS = "sofiamorais1106@" 
+DB_PORT = "5432"
+DB_SCHEMA = "aisaph_schema"
